@@ -7,4 +7,4 @@ The initial data preparation, data cleaning, analysis, regression and clustering
 
 To learn about European Union Open Data Portal and access database [*click here*](https://data.europa.eu/en)
 
-Also the results of this analysis are presentation in [*Tableau*](https://public.tableau.com/app/profile/toomaj.foroud/viz/EuropeElectricityConsumption/ElectricityconsumptioninEurope?publish=yes)
+Also the results of this analysis are presented in [*Tableau*](https://public.tableau.com/app/profile/toomaj.foroud/viz/EuropeElectricityConsumption/ElectricityconsumptioninEurope?publish=yes)
